@@ -18,3 +18,5 @@ func1(3)
 func1(5)
 func1(3)
 func1(5)         
+
+print()
